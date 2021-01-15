@@ -1,0 +1,15 @@
+Fonctionnement: 
+
+-> Ouvrir un invite de commande dans le dossier "TrouveTonAlternance"
+-> Saisir la commande suivante : "python rechercheInfos.py"
+-> Saisir le nom des villes souhaitées (X pour arrêter)
+-> Saisir le nom des domaines informatiques souhaités (X pour arrêter)
+-> Attendre
+
+
+Vous trouverez le fichier "entreprises_informatiques.csv" avec la liste de toutes les entreprises trouvées dans la base de données
+Ainsi que le fichier "contact_entreprise.csv" avec les sites web et les listes d'adresses mails potentiellement trouvées
+
+NB:
+Le fichier "liste_entreprise.csv" doit être présent dans le dossier
+Les fichiers csv peuvent être ouvert avec Excel pour une meilleure visualisation des données
